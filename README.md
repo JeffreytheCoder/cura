@@ -7,7 +7,7 @@ Cura is a health emergency alert for seniors we care for. The portable device de
 
 Cura now supports fall and arrhythmia detection. The wearer can also push the emergency button on the device to trigger the alert.
 
-The project is submitted to [LA Hack 2022] (https://devpost.com/software/cura-fhcjgv?ref_content=user-portfolio&ref_feature=in_progress).
+The project is submitted to [LA Hack 2022](https://devpost.com/software/cura-fhcjgv?ref_content=user-portfolio&ref_feature=in_progress).
 
 ## Demo
 
