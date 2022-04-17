@@ -5,8 +5,8 @@
 #include "ESP8266WiFi.h"
 
 // your network SSID (name) & network password
-char myssid[] = "Cura";
-char mypass[] = "Cura123";
+char myssid[] = "UCLA_WEB";
+char mypass[] = "";
 
 // unwiredlabs Hostname & Geolocation Endpoint url
 const char* Host = "www.unwiredlabs.com";
